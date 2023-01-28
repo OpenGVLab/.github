@@ -21,6 +21,7 @@
 * INTERN 2.0
   *  [InternImage](https://github.com/OpenGVLab/InternImage)
   *  [InternVideo](https://github.com/OpenGVLab/InternVideo)
+  *  [STM-Evaluation](https://github.com/OpenGVLab/STM-Evaluation)
 
 * INTERN 1.0
   * [modelzoo](https://github.com/OpenGVLab/modelzoo)
