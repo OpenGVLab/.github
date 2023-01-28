@@ -28,5 +28,5 @@
 
 ### Follow us
 
-* [Twitter](https://twitter.com/)
-* [WeChat](https://twitter.com/)
+* [Twitter](https://twitter.com/opengvlab)
+* [WeChat](./opengv-wechat.jpeg)
