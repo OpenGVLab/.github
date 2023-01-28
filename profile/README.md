@@ -1,5 +1,7 @@
 ## Welcome to OpenGVLab! 👋
 
+[Homepage](https://opengvlab.github.io/)
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -13,6 +15,9 @@
 
 ### Our Work
 
+* Competition winning solutions 🔥
+  * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - SOTA in various Ego4D challenges, ECCV 2022
+
 * INTERN 2.0
   *  [InternImage](https://github.com/OpenGVLab/InternImage)
   *  [InternVideo](https://github.com/OpenGVLab/InternVideo)
@@ -20,3 +25,8 @@
 * INTERN 1.0
   * [modelzoo](https://github.com/OpenGVLab/modelzoo)
   * [gv-benchmark](https://github.com/OpenGVLab/gv-benchmark)
+
+### Follow us
+
+* [Twitter](https://twitter.com/)
+* [WeChat](https://twitter.com/)
