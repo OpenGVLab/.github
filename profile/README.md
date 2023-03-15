@@ -30,4 +30,4 @@
 ### Follow us
 
 * [Twitter](https://twitter.com/opengvlab)
-* [WeChat](./opengv-wechat.jpeg)
+* [WeChat](./profile/opengv-wechat.jpeg)
