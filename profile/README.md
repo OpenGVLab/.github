@@ -19,7 +19,7 @@
   * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - SOTA in various Ego4D challenges, ECCV 2022
 
 * INTERN 2.0
-  *  [InternImage](https://github.com/OpenGVLab/InternImage)
+  *  [InternImage](https://github.com/OpenGVLab/InternImage) - CVPR 2023, 🌟highlight🌟
   *  [InternVideo](https://github.com/OpenGVLab/InternVideo)
   *  [STM-Evaluation](https://github.com/OpenGVLab/STM-Evaluation)
 
