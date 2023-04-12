@@ -31,3 +31,4 @@
 
 * [Twitter](https://twitter.com/opengvlab)
 * [WeChat](./profile/opengv-wechat.jpeg)
+* [Hugging Face](https://huggingface.co/OpenGVLab)
