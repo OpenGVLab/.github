@@ -20,21 +20,28 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 ### Our Work
 
 * ### [InternImage](https://github.com/OpenGVLab/InternImage)
+
+  Best performing image-based universal backbone model with up to 3 billion parameters
+  
+  90.1% Top1 accuracy in ImageNet, 65.5 mAP on COCO object detection
+
 * ### [InternVideo](https://github.com/OpenGVLab/InternVideo)
 
+  SOTA performance on 39 video datasets
+
 * Image-based
-  * [HumanBench](https://github.com/OpenGVLab/HumanBench)
-  * [STM-Evaluation](https://github.com/OpenGVLab/STM-Evaluation)
-  * [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining)
-  * [ConvMAE](https://github.com/OpenGVLab/Official-ConvMAE-Det)
+  * [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
+  * [STM-Evaluation](https://github.com/OpenGVLab/STM-Evaluation) - A unified architecture for different spatial token mixing paradigms, and make various comparisons and analyses for these "spatial token mixers".
+  * [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) - Successfully pre-train a 1B model (InternImage-H) with M3I Pre-training and achieve new record 65.4 mAP on COCO detection test-dev, 62.5 mAP on LVIS detection minival, and 62.9 mIoU on ADE20k.
+  * [ConvMAE](https://github.com/OpenGVLab/Official-ConvMAE-Det) - Transfer learning for object detection on COCO.
 
 * Video-based
-  * [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
+  * [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video
   * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - SOTA in various Ego4D challenges, ECCV 2022
-  * [VideoMAEv2](https://github.com/OpenGVLab/VideoMAEv2)
-  * [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher)
-  * [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2)
-  * [Efficient Video Learners](https://github.com/OpenGVLab/efficient-video-recognition)
+  * [VideoMAEv2](https://github.com/OpenGVLab/VideoMAEv2) - Successfully train a video ViT model with a billion parameters, which achieves a new SOTA performance on the datasets of Kinetics and Something-Something, and many more.
+  * [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.
+  * [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2) - The first model to achieve 90% top-1 accuracy on Kinetics-400.
+  * [Efficient Video Learners](https://github.com/OpenGVLab/efficient-video-recognition) - Despite with a small training computation and memory consumption, EVL models achieves high performance on Kinetics-400.
 
 ### Follow us
 
