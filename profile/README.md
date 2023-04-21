@@ -49,7 +49,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   * 🔥 [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
 
-* ### Competition winning solutions🔥
+* ### Competition winning solutions 🏆
 
   * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - SOTA in various Ego4D challenges, ECCV 2022
 
