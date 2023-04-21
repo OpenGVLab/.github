@@ -39,15 +39,15 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
   
   > Related projects
 
-  * [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video
-  * [VideoMAEv2](https://github.com/OpenGVLab/VideoMAEv2) - Successfully train a video ViT model with a billion parameters, which achieves a new SOTA performance on the datasets of Kinetics and Something-Something, and many more.
+  * 🔥 [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video
+  * 🔥 [VideoMAEv2](https://github.com/OpenGVLab/VideoMAEv2) - Successfully train a video ViT model with a billion parameters, which achieves a new SOTA performance on the datasets of Kinetics and Something-Something, and many more.
   * [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.
   * [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2) - The first model to achieve 90% top-1 accuracy on Kinetics-400.
   * [Efficient Video Learners](https://github.com/OpenGVLab/efficient-video-recognition) - Despite with a small training computation and memory consumption, EVL models achieves high performance on Kinetics-400.
 
 * ### General 3D
 
-  * [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
+  * 🔥 [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
 
 * ### Competition winning solutions🔥
 
