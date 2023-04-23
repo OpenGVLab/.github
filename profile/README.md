@@ -1,8 +1,5 @@
 ## Welcome to OpenGVLab! 👋
 
-![GitHub Org's stars](https://img.shields.io/github/stars/opengvlab?style=social)
-![GitHub Org's follows](https://img.shields.io/github/followers/opengvlab?style=social)
-
 <!--
 
 **Here are some ideas to get you started:**
