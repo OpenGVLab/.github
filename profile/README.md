@@ -51,7 +51,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * ### Competition winning solutions 🏆
 
-  * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - SOTA in various Ego4D challenges, ECCV 2022
+  * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges, ECCV 2022
 
 ### Follow us
 
