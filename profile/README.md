@@ -39,6 +39,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
   
   > Related projects
 
+  * [LORIS](https://github.com/OpenGVLab/LORIS) - Our model generates long-term soundtracks with state-of-the-art musical quality and rhythmic correspondence
   * 🔥 [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video
   * 🔥 [VideoMAEv2](https://github.com/OpenGVLab/VideoMAEv2) - Successfully train a video ViT model with a billion parameters, which achieves a new SOTA performance on the datasets of Kinetics and Something-Something, and many more.
   * [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.
