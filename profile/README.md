@@ -25,6 +25,9 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   > Related projects
   
+  * [InternGPT](https://github.com/OpenGVLab/InternGPT) - An open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc.
+  * [GITM](https://github.com/OpenGVLab/GITM) - A novel framework integrating Large Language Models (LLMs) with text-based knowledge and memory, aiming to create Generally Capable Agents in Minecraft.
+  * [VisionLLM](https://github.com/OpenGVLab/VisionLLM) - A unified perspective for vision and language tasks by treating images as a foreign language and aligning vision-centric tasks with language tasks that can be flexibly defined and managed using language instructions.
   * [STM-Evaluation](https://github.com/OpenGVLab/STM-Evaluation) - A unified architecture for different spatial token mixing paradigms, and make various comparisons and analyses for these "spatial token mixers".
   * [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) - Successfully pre-train a 1B model (InternImage-H) with M3I Pre-training and achieve new record 65.4 mAP on COCO detection test-dev, 62.5 mAP on LVIS detection minival, and 62.9 mIoU on ADE20k.
   * [ConvMAE](https://github.com/OpenGVLab/Official-ConvMAE-Det) - Transfer learning for object detection on COCO.
