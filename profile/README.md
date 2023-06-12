@@ -11,6 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+![GitHub Org's stars](https://img.shields.io/github/stars/opengvlab?style=social)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab)
+
 OpenGVLab is a community focused on generalized vision-based AI. We strive to develop models that not only excel at one vision benchmark, but can have a general understanding of vision so that little effort is needed to adapt to new vision-based tasks. We develop model architecture and release pre-trained models to the community to motivate further research in this area. We have made promising progress in terms of general vision AI, with ***57 SOTA*** rankings from our models both for image-based and video-based tasks. We hope to empower individuals and businesses by offering a higher starting point to develop vision-based AI products and lessening the burdun of building an AI model from scratch.
 
 ![WechatIMG711](https://user-images.githubusercontent.com/123792031/233248283-956dea03-7c99-4d43-8adb-33a7a3a19f6f.jpeg)
