@@ -58,6 +58,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * ### Competition winning solutions 🏆
 
+  * [InternVideo-Perception Test challenges](https://github.com/OpenGVLab/perception_test_iccv2023) - 1st place in the Temporal Sound Localisation task, ICCV 2023
   * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges, ECCV 2022
 
 ### Follow us
