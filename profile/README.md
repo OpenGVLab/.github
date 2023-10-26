@@ -54,6 +54,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * ### General 3D
 
+  * 🔥 [PonderV2](https://github.com/OpenGVLab/PonderV2) - 3D pre-training framework with 11 sota.
   * 🔥 [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
 
 * ### Competition winning solutions 🏆
