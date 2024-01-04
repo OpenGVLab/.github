@@ -17,7 +17,7 @@
 OpenGVLab is a community focused on generalized vision-based AI. We strive to develop models that not only excel at one vision benchmark, but can have a general understanding of vision so that little effort is needed to adapt to new vision-based tasks. We develop model architecture and release pre-trained models to the community to motivate further research in this area. We have made promising progress in terms of general vision AI, with ***109*** SOTA rankings from our models both for image-based and video-based tasks. We hope to empower individuals and businesses by offering a higher starting point to develop vision-based AI products and lessening the burdun of building an AI model from scratch.
 
 
-![Vision-Centric Multi-Modality Opensource Platform](Vision-Centric%20Multi-Modality%20Opensource%20Platform.png)
+![Vision-Centric Multi-Modality Opensource Platform](./profile/Vision-Centric%20Multi-Modality%20Opensource%20Platform.png)
 
 ### Our Work
 
