@@ -14,11 +14,18 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/opengvlab?style=social)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab)
 
-OpenGVLab is a community focused on generalized vision-based AI. We strive to develop models that not only excel at one vision benchmark, but can have a general understanding of vision so that little effort is needed to adapt to new vision-based tasks. We develop model architecture and release pre-trained models to the community to motivate further research in this area. We have made promising progress in terms of general vision AI, with ***57 SOTA*** rankings from our models both for image-based and video-based tasks. We hope to empower individuals and businesses by offering a higher starting point to develop vision-based AI products and lessening the burdun of building an AI model from scratch.
+OpenGVLab is a community focused on generalized vision-based AI. We strive to develop models that not only excel at one vision benchmark, but can have a general understanding of vision so that little effort is needed to adapt to new vision-based tasks. We develop model architecture and release pre-trained models to the community to motivate further research in this area. We have made promising progress in terms of general vision AI, with ***109*** SOTA rankings from our models both for image-based and video-based tasks. We hope to empower individuals and businesses by offering a higher starting point to develop vision-based AI products and lessening the burdun of building an AI model from scratch.
 
-![WechatIMG711](https://user-images.githubusercontent.com/123792031/233248283-956dea03-7c99-4d43-8adb-33a7a3a19f6f.jpeg)
+
+![Vision-Centric Multi-Modality Opensource Platform](./Vision-Centric%20Multi-Modality%20Opensource%20Platform.png)
 
 ### Our Work
+
+# 🚀Foundation Models
+
+* ### [InternVL](https://github.com/OpenGVLab/InternImage) 👈
+
+  An Open-Source Alternative to ViT-22B
 
 * ### [InternImage](https://github.com/OpenGVLab/InternImage) 👈
 
@@ -26,41 +33,72 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
   
   90.1% Top1 accuracy in ImageNet, 65.5 mAP on COCO object detection
 
-  > Related projects
+  > Supported by
   
-  * [InternGPT](https://github.com/OpenGVLab/InternGPT) - An open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc.
+  <!-- * [InternGPT](https://github.com/OpenGVLab/InternGPT) - An open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc.
   * [GITM](https://github.com/OpenGVLab/GITM) - A novel framework integrating Large Language Models (LLMs) with text-based knowledge and memory, aiming to create Generally Capable Agents in Minecraft.
-  * [VisionLLM](https://github.com/OpenGVLab/VisionLLM) - A unified perspective for vision and language tasks by treating images as a foreign language and aligning vision-centric tasks with language tasks that can be flexibly defined and managed using language instructions.
+  * [VisionLLM](https://github.com/OpenGVLab/VisionLLM) - A unified perspective for vision and language tasks by treating images as a foreign language and aligning vision-centric tasks with language tasks that can be flexibly defined and managed using language instructions. -->
   * [STM-Evaluation](https://github.com/OpenGVLab/STM-Evaluation) - A unified architecture for different spatial token mixing paradigms, and make various comparisons and analyses for these "spatial token mixers".
   * [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) - Successfully pre-train a 1B model (InternImage-H) with M3I Pre-training and achieve new record 65.4 mAP on COCO detection test-dev, 62.5 mAP on LVIS detection minival, and 62.9 mIoU on ADE20k.
-  * [ConvMAE](https://github.com/OpenGVLab/Official-ConvMAE-Det) - Transfer learning for object detection on COCO.
+  <!-- * [ConvMAE](https://github.com/OpenGVLab/Official-ConvMAE-Det) - Transfer learning for object detection on COCO. -->
 
 * ### [InternVideo](https://github.com/OpenGVLab/InternVideo) 👈
 
-  The first video foundation model to achieve high-performance on both video and video-text tasks. 
+  The first video foundation model to achieve high-performance on both video and video-text tasks.
   
   SOTA performance on 39 video datasets when released in 2022.
   
   91.1% Top1 accuracy in Kinetics 400, 77.2% Top1 accuracy in Something-Something V2.
   
-  > Related projects
+  > Supported by
 
-  * [LORIS](https://github.com/OpenGVLab/LORIS) - Our model generates long-term soundtracks with state-of-the-art musical quality and rhythmic correspondence
-  * 🔥 [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video
-  * 🔥 [VideoMAEv2](https://github.com/OpenGVLab/VideoMAEv2) - Successfully train a video ViT model with a billion parameters, which achieves a new SOTA performance on the datasets of Kinetics and Something-Something, and many more.
-  * [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.
+  <!-- * [LORIS](https://github.com/OpenGVLab/LORIS) - Our model generates long-term soundtracks with state-of-the-art musical quality and rhythmic correspondence
+  * 🔥 [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video -->
+  * [Data](https://github.com/OpenGVLab/InternVideo/tree/main/Data) -InternVid
+  * 🔥 [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.
+  * [VideoMAEv2](https://github.com/OpenGVLab/VideoMAEv2) - Train a video ViT model with a billion parameters, which achieves a new SOTA performance on the datasets of Kinetics and Something-Something, and many more.
   * [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2) - The first model to achieve 90% top-1 accuracy on Kinetics-400.
   * [Efficient Video Learners](https://github.com/OpenGVLab/efficient-video-recognition) - Despite with a small training computation and memory consumption, EVL models achieves high performance on Kinetics-400.
 
-* ### General 3D
+* ### 🌋Applications
+  [🦜 Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - VideoChat is here! 
 
-  * 🔥 [PonderV2](https://github.com/OpenGVLab/PonderV2) - 3D pre-training framework with 11 sota.
-  * 🔥 [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
+  [👻GITM](https://github.com/OpenGVLab/GITM) - LLM Agent, unclok ALL tasks in Minecraft. 
 
-* ### Competition winning solutions 🏆
+  [🎨InternGPT](https://github.com/OpenGVLab/InternGPT) - An open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc.
 
-  * [InternVideo-Perception Test challenges](https://github.com/OpenGVLab/perception_test_iccv2023) - 1st place in the Temporal Sound Localisation task, ICCV 2023
+* ### 🛠️Multimodal algorithms and tools
+  [🤖ControlLLM](https://github.com/OpenGVLab/ControlLLM) -Augment Language Models with Tools by Searching on Graphs 
+
+  [🦙Llama Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) -Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+  
+  [🎵 LORIS](https://github.com/OpenGVLab/LORIS) - Generates long-term soundtracks with state-of-the-art musical quality and rhythmic correspondence
+
+  [👀 VisionLLM ](https://github.com/OpenGVLab/VisionLLM) - Aligning vision-centric tasks& language with the concept of “images as a foreign language” 
+
+  [🧩OmniQant ](https://github.com/OpenGVLab/OmniQuant) -Simple and powerful quantization technique for LLMs
+
+  👓3D
+
+  [PonderV2](https://github.com/OpenGVLab/PonderV2) - 3D pre-training framework with 11 sota.
+
+  [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
+
+  [🐑 LAMM](https://github.com/OpenGVLab/LAMM) -a MLLM framwork
+
+* ### ⚖️Evalution
+
+   * [Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena) Experience Multi-Modality model performances（MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more） by yourself. Easy to use and really fun!
+
+* ### 🏆Champion solutions 
+
+  * [InternVideo-Perception Test challenges](https://github.com/OpenGVLab/perception_test_iccv2023)  - 1st place in the Temporal Sound Localisation task, ICCV 2023
   * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges, ECCV 2022
+
+* ### 📏Data & Benchmark
+  * [⚕️ SAM Med 2d ](https://github.com/OpenGVLab/SAM-Med2D)  -Largest medical image segmentation dataset (4.6M images and 19.7M masks) to date for training models.
+
+    [ MVbench ](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2)  - Static-to-dynamic method for defining temporal-related tasks.
 
 ### Follow us
 
