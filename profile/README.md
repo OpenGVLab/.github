@@ -23,7 +23,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 # 🚀Foundation Models
 
-* ### [InternVL](https://github.com/OpenGVLab/InternImage) 👈
+* ### [InternVL](https://github.com/OpenGVLab/InternVL) 👈
 
   An Open-Source Alternative to ViT-22B
 
