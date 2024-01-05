@@ -52,10 +52,14 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   <!-- * [LORIS](https://github.com/OpenGVLab/LORIS) - Our model generates long-term soundtracks with state-of-the-art musical quality and rhythmic correspondence
   * 🔥 [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video -->
-  * [Data](https://github.com/OpenGVLab/InternVideo/tree/main/Data) -InternVid
-  * 🔥 [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.
+  * [Data](https://github.com/OpenGVLab/InternVideo/tree/main/Data) -InternVid  
+
+  * 🔥 [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.  
+  
   * [VideoMAEv2](https://github.com/OpenGVLab/VideoMAEv2) - Train a video ViT model with a billion parameters, which achieves a new SOTA performance on the datasets of Kinetics and Something-Something, and many more.
-  * [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2) - The first model to achieve 90% top-1 accuracy on Kinetics-400.
+
+  * [UniFormerV2](https://github.com/OpenGVLab/UniFormerV2) - The first model to achieve 90% top-1 accuracy on Kinetics-400.  
+
   * [Efficient Video Learners](https://github.com/OpenGVLab/efficient-video-recognition) - Despite with a small training computation and memory consumption, EVL models achieves high performance on Kinetics-400.
 
 * # 🌋Applications
@@ -76,10 +80,8 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   * [🧩OmniQant ](https://github.com/OpenGVLab/OmniQuant) -Simple and powerful quantization technique for LLMs
 
-
   👓3D
   
-  <br />
 
   * [PonderV2](https://github.com/OpenGVLab/PonderV2) - 3D pre-training framework with 11 sota.
 
@@ -93,7 +95,8 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * # 🏆Champion solutions 
 
-  * [InternVideo-Perception Test challenges](https://github.com/OpenGVLab/perception_test_iccv2023)  - 1st place in the Temporal Sound Localisation task, ICCV 2023
+  * [InternVideo-Perception Test challenges](https://github.com/OpenGVLab/perception_test_iccv2023)  - 1st place in the Temporal Sound Localisation task, ICCV 2023  
+
   * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges, ECCV 2022
 
 * ### 📏Data & Benchmark
@@ -108,5 +111,5 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
  [Twitter](https://twitter.com/opengvlab)
-* ![WeChat logo](./profile/icon32_wx_logo.png) [WeChat](./profile/opengv-wechat.jpeg)
+* ![WeChat logo](./profile/icon16_wx_logo) [WeChat](./profile/opengv-wechat.jpeg)
 * [🤗Hugging Face](https://huggingface.co/OpenGVLab)
