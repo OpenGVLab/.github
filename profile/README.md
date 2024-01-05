@@ -108,5 +108,5 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
  [Twitter](https://twitter.com/opengvlab)
-* ![WeChat logo](./icon32_wx_logo.png) [WeChat](./profile/opengv-wechat.jpeg)
+* ![WeChat logo](./profile/icon32_wx_logo.png) [WeChat](./profile/opengv-wechat.jpeg)
 * [🤗Hugging Face](https://huggingface.co/OpenGVLab)
