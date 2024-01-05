@@ -23,13 +23,13 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * ### [InternVL](https://github.com/OpenGVLab/InternVL) 👈
 
-  An Open-Source Alternative to ViT-22B
+  * An Open-Source Alternative to ViT-22B，plus Visual-Linguistic ability.
 
 * ### [InternImage](https://github.com/OpenGVLab/InternImage) 👈
 
-  Best performing image-based universal backbone model with up to 3 billion parameters
+  * Best performing image-based universal backbone model with up to 3 billion parameters
   
-  90.1% Top1 accuracy in ImageNet, 65.5 mAP on COCO object detection
+  * 90.1% Top1 accuracy in ImageNet, 65.5 mAP on COCO object detection
 
   > Supported by
   
@@ -42,11 +42,11 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * ### [InternVideo](https://github.com/OpenGVLab/InternVideo) 👈
 
-  The first video foundation model to achieve high-performance on both video and video-text tasks.
+  * The first video foundation model to achieve high-performance on both video and video-text tasks.
   
-  SOTA performance on 39 video datasets when released in 2022.
+  * SOTA performance on 39 video datasets when released in 2022.
   
-  91.1% Top1 accuracy in Kinetics 400, 77.2% Top1 accuracy in Something-Something V2.
+  * 91.1% Top1 accuracy in Kinetics 400, 77.2% Top1 accuracy in Something-Something V2.
   
   > Supported by
 
@@ -81,17 +81,16 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
   * [🧩OmniQant ](https://github.com/OpenGVLab/OmniQuant) -Simple and powerful quantization technique for LLMs
 
   👓3D
-  
 
   * [PonderV2](https://github.com/OpenGVLab/PonderV2) - 3D pre-training framework with 11 sota.
 
   * [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
 
-  * [🐑 LAMM](https://github.com/OpenGVLab/LAMM) -  Multi-Modal Large Language Models and Applications as AI Agents
+  [🐑 LAMM](https://github.com/OpenGVLab/LAMM) -  Multi-Modal Large Language Models and Applications as AI Agents
 
 * # ⚖️Evalution
 
-   * [Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena) Experience Multi-Modality model performances（MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more） by yourself. Easy to use and really fun!
+   * [Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena) Experience Multi-Modality model performances ( MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more ) by yourself. Easy to use and really fun!
 
 * # 🏆Champion solutions 
 
@@ -103,13 +102,13 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   * [🔥 InternVid ](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)  -Video-text dataset aimed at facilitating multimodal understanding and generation，10 million video clips，from 16 popular categories.
 
-  * [⚕️ SAM Med 2d ](https://github.com/OpenGVLab/SAM-Med2D)  -Largest medical image segmentation dataset (4.6M images and 19.7M masks) to date for training models.
+  * [⚕️ SAM Med 2d ](https://github.com/OpenGVLab/SAM-Med2D)  -Largest medical image segmentation dataset ( 4.6M images and 19.7M masks ) to date for training models.
 
   *  [📽️ MVbench ](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2)  - Static-to-dynamic method for defining temporal-related tasks.
 
 * ### Follow us
 
-  * ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user) [Twitter](https://twitter.com/opengvlab)  
+  * ![Twitter X logo](./profile/twitter-x-logo) [Twitter](https://twitter.com/opengvlab)  
 
   * ![WeChat logo](./profile/icon16_wx_logo.png) [WeChat](./profile/opengv-wechat.jpeg)  
 
