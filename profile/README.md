@@ -52,7 +52,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   <!-- * [LORIS](https://github.com/OpenGVLab/LORIS) - Our model generates long-term soundtracks with state-of-the-art musical quality and rhythmic correspondence
   * 🔥 [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video -->
-  * [Data](https://github.com/OpenGVLab/InternVideo/tree/main/Data) -InternVid  
+  * [Data](https://github.com/OpenGVLab/InternVideo/tree/main/Data) -InternVid：Video-text dataset aimed at facilitating multimodal understanding and generation，10 million video clips，from 16 popular categories.  
 
   * 🔥 [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.  
   
@@ -86,7 +86,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   * [HumanBench](https://github.com/OpenGVLab/HumanBench) - A Large-scale and diverse Human-centric benchmark, and many more.
 
-  [🐑 LAMM](https://github.com/OpenGVLab/LAMM) -  Multi-Modal Large Language Models and Applications as AI Agents
+  [🐑 LAMM](https://github.com/OpenGVLab/LAMM) -  Multi-Modal Large Language Models and Applications as AI Agents.
 
 * # ⚖️Evalution
 
@@ -94,9 +94,9 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * # 🏆Champion solutions 
 
-  * [InternVideo-Perception Test challenges](https://github.com/OpenGVLab/perception_test_iccv2023)  - 1st place in the Temporal Sound Localisation task, ICCV 2023  
+  * [InternVideo-Perception Test challenges](https://github.com/OpenGVLab/perception_test_iccv2023)  - 1st place in the Temporal Sound Localisation task, ICCV 2023.  
 
-  * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges, ECCV 2022
+  * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in** 5** Ego4D tracks, ECCV 2022.
 
 * ### 📏Data & Benchmark
 
