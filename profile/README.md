@@ -37,7 +37,11 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
   * [GITM](https://github.com/OpenGVLab/GITM) - A novel framework integrating Large Language Models (LLMs) with text-based knowledge and memory, aiming to create Generally Capable Agents in Minecraft.
   * [VisionLLM](https://github.com/OpenGVLab/VisionLLM) - A unified perspective for vision and language tasks by treating images as a foreign language and aligning vision-centric tasks with language tasks that can be flexibly defined and managed using language instructions. -->
   <!-- * [STM-Evaluation](https://github.com/OpenGVLab/STM-Evaluation) - A unified architecture for different spatial token mixing paradigms, and make various comparisons and analyses for these "spatial token mixers". -->
-  * [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) - Successfully pre-train a 1B model (InternImage-H) with M3I Pre-training and achieve new record 65.4 mAP on COCO detection test-dev, 62.5 mAP on LVIS detection minival, and 62.9 mIoU on ADE20k.
+  * [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) - Successfully pre-train a 1B model (InternImage-H) with M3I Pre-training and achieve new record 65.4 mAP on COCO detection test-dev, 62.5 mAP on LVIS detection minival, and 62.9 mIoU on ADE20k.  
+
+  * [SiameseIM](https://github.com/OpenGVLab/Siamese-Image-Modeling) - New form of self-supervised learning that can learn semantic alignment and spatial sensitivity with a single dense loss.
+
+  And more underlining algorithms, find in the [InternImage](https://github.com/OpenGVLab/InternImage) repo! 
   <!-- * [ConvMAE](https://github.com/OpenGVLab/Official-ConvMAE-Det) - Transfer learning for object detection on COCO. -->
 
 * ### [InternVideo](https://github.com/OpenGVLab/InternVideo) 👈
@@ -62,7 +66,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   * [Efficient Video Learners](https://github.com/OpenGVLab/efficient-video-recognition) - Despite with a small training computation and memory consumption, EVL models achieves high performance on Kinetics-400.
 
-* # 🌋Applications
+* # ✨Applications
   * [🦜 Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - **VideoChat is here!**
 
   * [👻GITM](https://github.com/OpenGVLab/GITM) - LLM Agent, unclok **ALL** tasks in Minecraft. 
@@ -98,7 +102,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   * [InternVideo-Ego4D](https://github.com/OpenGVLab/ego4d-eccv2022-solutions) - 1st place in 5 Ego4D challenges, ECCV 2022
 
-* ### 📏Data & Benchmark
+* # 💾Data & Benchmark
 
   * [🔥 InternVid ](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)  -Video-text dataset aimed at facilitating multimodal understanding and generation，10 million video clips，from 16 popular categories.
 
