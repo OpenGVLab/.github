@@ -11,7 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![GitHub Org's stars](https://img.shields.io/github/stars/opengvlab?style=social)
+<!--
+![opengvlab stars](https://img.shields.io/github/stars/opengvlab?style=social) + [![Alpha-VLLM stars](https://img.shields.io/github/stars/Alpha-VLLM?style=social)](https://github.com/Alpha-VLLM) + [![uni-medical stars](https://img.shields.io/github/stars/uni-medical?style=social)](https://github.com/uni-medical)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab)
+-->
+
+![Static Badge](https://img.shields.io/badge/Stars-19.8k-blue?style=social&logo=github)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab)
 
 OpenGVLab is a community focused on generalized vision-based AI. We strive to develop models that not only excel at one vision benchmark, but can have a general understanding of vision so that little effort is needed to adapt to new vision-based tasks. We develop model architecture and release pre-trained models to the community to motivate further research in this area. We have made promising progress in terms of general vision AI, with ***109 SOTA*** rankings from our models for **Vision-Centric Multi-Modality** tasks. We hope to empower individuals and businesses by offering a higher starting point to develop vision-based AI products and lessening the burdun of building an AI model from scratch.
