@@ -104,6 +104,10 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
 * # 💾Data & Benchmark
 
+  * <img width="20" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/8529570/54c8d328-aa67-4d28-99de-90d019e8e7d0"> [AS-V2](https://github.com/OpenGVLab/all-seeing/tree/main/all-seeing-v2)  -A hight-quality dataset comprising 127K high-quality relation conversation samples, which requires models to generate a text response and link all mentioned objects to their corresponding regions within the image.
+
+  * <img width="20" alt="image" src="https://github.com/OpenGVLab/all-seeing/assets/8529570/54c8d328-aa67-4d28-99de-90d019e8e7d0"> [AS-1B](https://github.com/OpenGVLab/all-seeing)  -A large-scale dataset for open-world panoptic visual recognition and understanding, containing over 1 billion regions annotated with semantic tags, question-answering pairs, and detailed captions.
+
   * [🔥 InternVid ](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)  -Video-text dataset aimed at facilitating multimodal understanding and generation，10 million video clips，from 16 popular categories.
 
   * [⚕️ SAM Med 2d ](https://github.com/OpenGVLab/SAM-Med2D)  -Largest medical image segmentation dataset ( 4.6M images and 19.7M masks ) to date for training models.
