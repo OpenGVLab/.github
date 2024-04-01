@@ -1,23 +1,20 @@
 ## Welcome to OpenGVLab! 👋
 
-<!--
+<!-- ![opengvlab stars](https://img.shields.io/github/stars/opengvlab?style=social) + [![Alpha-VLLM stars](https://img.shields.io/github/stars/Alpha-VLLM?style=social)](https://github.com/Alpha-VLLM) + [![uni-medical stars](https://img.shields.io/github/stars/uni-medical?style=social)](https://github.com/uni-medical)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab) -->
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-![GitHub Org's stars](https://img.shields.io/github/stars/opengvlab?style=social)
+![Static Badge](https://img.shields.io/badge/Stars-31k-blue?style=social&logo=github)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab)
 
-OpenGVLab is a community focused on generalized vision-based AI. We strive to develop models that not only excel at one vision benchmark, but can have a general understanding of vision so that little effort is needed to adapt to new vision-based tasks. We develop model architecture and release pre-trained models to the community to motivate further research in this area. We have made promising progress in terms of general vision AI, with ***109 SOTA*** rankings from our models for **Vision-Centric Multi-Modality** tasks. We hope to empower individuals and businesses by offering a higher starting point to develop vision-based AI products and lessening the burdun of building an AI model from scratch.
 
 
-![Vision-Centric Multi-Modality Opensource Platform](./profile/platform.png)
+We are a research group from Shanghai AI Lab focused on Vision-Centric AI research. The GV in our name, OpenGVLab, means general vision, a general understanding of vision, so little effort is needed to adapt to new vision-based tasks.
+
+We develop model architecture and release pre-trained foundation models to the community to motivate further research in this area. We have made promising progress in general vision AI, with ***109 SOTA***🚀. In 2022, our open-sourced foundation model 65.5 mAP on the COCO object detection benchmark, 91.1% Top1 accuracy in Kinetics 400, achieved landmarks for AI vision👀 tasks for image🖼️ and video📹 understanding.
+
+Based on solid vision foundations, we have expanded to Multi-Modality models and generation AI, which aim to empower individuals and businesses by offering a higher starting point to develop vision-based AI products and lessening the burden of building an AI model from scratch.
+
+<!-- ![Vision-Centric Multi-Modality Opensource Platform](./profile/platform.png)
 
 # 🚀Foundation Models
 
@@ -31,20 +28,20 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
   
   * 90.1% Top1 accuracy in ImageNet, 65.5 mAP on COCO object detection
 
-  > Supported by
+  > Supported by -->
   
   <!-- * [InternGPT](https://github.com/OpenGVLab/InternGPT) - An open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc.
   * [GITM](https://github.com/OpenGVLab/GITM) - A novel framework integrating Large Language Models (LLMs) with text-based knowledge and memory, aiming to create Generally Capable Agents in Minecraft.
   * [VisionLLM](https://github.com/OpenGVLab/VisionLLM) - A unified perspective for vision and language tasks by treating images as a foreign language and aligning vision-centric tasks with language tasks that can be flexibly defined and managed using language instructions. -->
   <!-- * [STM-Evaluation](https://github.com/OpenGVLab/STM-Evaluation) - A unified architecture for different spatial token mixing paradigms, and make various comparisons and analyses for these "spatial token mixers". -->
-  * [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) - Successfully pre-train a 1B model (InternImage-H) with M3I Pre-training and achieve new record 65.4 mAP on COCO detection test-dev, 62.5 mAP on LVIS detection minival, and 62.9 mIoU on ADE20k.  
+  <!-- * [M3I-Pretraining](https://github.com/OpenGVLab/M3I-Pretraining) - Successfully pre-train a 1B model (InternImage-H) with M3I Pre-training and achieve new record 65.4 mAP on COCO detection test-dev, 62.5 mAP on LVIS detection minival, and 62.9 mIoU on ADE20k.  
 
   * [SiameseIM](https://github.com/OpenGVLab/Siamese-Image-Modeling) - New form of self-supervised learning that can learn semantic alignment and spatial sensitivity with a single dense loss.
 
-  And more underlining algorithms, find in the [InternImage](https://github.com/OpenGVLab/InternImage) repo! 
+  And more underlining algorithms, find in the [InternImage](https://github.com/OpenGVLab/InternImage) repo!  -->
   <!-- * [ConvMAE](https://github.com/OpenGVLab/Official-ConvMAE-Det) - Transfer learning for object detection on COCO. -->
 
-* ### [InternVideo](https://github.com/OpenGVLab/InternVideo) 👈
+<!-- * ### [InternVideo](https://github.com/OpenGVLab/InternVideo) 👈
 
   * The first video foundation model to achieve high-performance on both video and video-text tasks.
   
@@ -52,11 +49,11 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
   
   * 91.1% Top1 accuracy in Kinetics 400, 77.2% Top1 accuracy in Something-Something V2.
   
-  > Supported by
+  > Supported by -->
 
   <!-- * [LORIS](https://github.com/OpenGVLab/LORIS) - Our model generates long-term soundtracks with state-of-the-art musical quality and rhythmic correspondence
   * 🔥 [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - A simple yet interesting tool for chatting with video -->
-  * [Data](https://github.com/OpenGVLab/InternVideo/tree/main/Data) -InternVid：Video-text dataset aimed at facilitating multimodal understanding and generation，10 million video clips，from 16 popular categories.  
+  <!-- * [Data](https://github.com/OpenGVLab/InternVideo/tree/main/Data) -InternVid：Video-text dataset aimed at facilitating multimodal understanding and generation，10 million video clips，from 16 popular categories.  
 
   * 🔥 [Unmasked Teacher](https://github.com/OpenGVLab/unmasked_teacher) - Our scratch-built ViT-L/16 achieves SOTA performances on various video tasks.  
   
@@ -108,7 +105,7 @@ OpenGVLab is a community focused on generalized vision-based AI. We strive to de
 
   * [⚕️ SAM Med 2d ](https://github.com/OpenGVLab/SAM-Med2D)  -Largest medical image segmentation dataset ( 4.6M images and 19.7M masks ) to date for training models.
 
-  *  [📽️ MVbench ](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2)  - Static-to-dynamic method for defining temporal-related tasks.
+  *  [📽️ MVbench ](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2)  - Static-to-dynamic method for defining temporal-related tasks. -->
 
 * ### Follow us
 
