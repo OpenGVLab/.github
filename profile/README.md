@@ -14,6 +14,6 @@ We develop model architecture and release pre-trained foundation models to the c
 
 Based on solid vision foundations, we have expanded to Multi-Modality models and Generative AI（partner with [Vchitect](https://github.com/vchitect)）. We aim to empower individuals and businesses by offering a higher starting point for developing vision-based AI products and lessening the burden of building an AI model from scratch.
 
-Branches： [Alpha](https://github.com/Alpha-VLLM) (our explorer squad for recent AI advances) and [uni-medical](https://github.com/uni-medical) (focused on medical AI)
+Branches： [Alpha](https://github.com/Alpha-VLLM) (explore lattest advances in vision+language research) and [uni-medical](https://github.com/uni-medical) (focus on medical AI)
 
  Follow us: &nbsp;&nbsp;  ![Twitter X logo](./profile/twitter-x-logo.svg) [Twitter](https://twitter.com/opengvlab) &nbsp;&nbsp;🤗[Hugging Face](https://huggingface.co/OpenGVLab) &nbsp;&nbsp;  ![Medium logo](./profile/medium.png) [Medium](https://medium.com/@opengvlab) &nbsp;&nbsp; ![WeChat logo](./profile/wechat.png) [WeChat](./profile/opengv-wechat.jpeg) &nbsp;&nbsp;  ![zhihu logo](./profile/zhihu.png) [Zhihu](https://www.zhihu.com/org/opengvlab)
