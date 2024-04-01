@@ -17,8 +17,8 @@ Based on solid vision foundations, we have expanded to Multi-Modality models and
 
 * ### Follow us
 
-  * ![Twitter X logo](./profile/twitter-x-logo.svg) [Twitter](https://twitter.com/opengvlab)  
+  * ![Twitter X logo](twitter-x-logo.svg) [Twitter](https://twitter.com/opengvlab)  
 
-  * ![WeChat logo](./profile/icon16_wx_logo.png) [WeChat](./profile/opengv-wechat.jpeg)  
+  * ![WeChat logo](icon16_wx_logo.png) [WeChat](opengv-wechat.jpeg)  
 
   * 🤗[Hugging Face](https://huggingface.co/OpenGVLab)
