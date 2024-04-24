@@ -12,8 +12,8 @@ We are a research group from Shanghai AI Lab focused on Vision-Centric AI resear
 
 We develop model architecture and release pre-trained foundation models to the community to motivate further research in this area. We have made promising progress in general vision AI, with ***109 SOTA***🚀. In 2022, our open-sourced foundation model 65.5 mAP on the COCO object detection benchmark, 91.1% Top1 accuracy in Kinetics 400, achieved landmarks for AI vision👀 tasks for image🖼️ and video📹 understanding.
 
-Based on solid vision foundations, we have expanded to Multi-Modality models and Generative AI（partner with Vchitect [Vchitect](https://github.com/vchitect)）. We aim to empower individuals and businesses by offering a higher starting point for developing vision-based AI products and lessening the burden of building an AI model from scratch.
+Based on solid vision foundations, we have expanded to Multi-Modality models and Generative AI（partner with [Vchitect](https://github.com/vchitect)）. We aim to empower individuals and businesses by offering a higher starting point for developing vision-based AI products and lessening the burden of building an AI model from scratch.
 
-Branches： [Alpha](https://github.com/Alpha-VLLM) (our explorer squad for recent AI advances) and [uni-medical](https://github.com/uni-medical) (focused on medical AI)
+Branches： [Alpha](https://github.com/Alpha-VLLM) (explore lattest advances in vision+language research) and [uni-medical](https://github.com/uni-medical) (focus on medical AI)
 
  Follow us: &nbsp;&nbsp;  ![Twitter X logo](./profile/twitter-x-logo.svg) [Twitter](https://twitter.com/opengvlab) &nbsp;&nbsp;🤗[Hugging Face](https://huggingface.co/OpenGVLab) &nbsp;&nbsp;  ![Medium logo](./profile/medium.png) [Medium](https://medium.com/@opengvlab) &nbsp;&nbsp; ![WeChat logo](./profile/wechat.png) [WeChat](./profile/opengv-wechat.jpeg) &nbsp;&nbsp;  ![zhihu logo](./profile/zhihu.png) [Zhihu](https://www.zhihu.com/org/opengvlab)
