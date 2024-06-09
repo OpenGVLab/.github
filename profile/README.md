@@ -3,7 +3,7 @@
 <!-- [![opengvlab stars](https://img.shields.io/github/stars/opengvlab?style=social)](https://github.com/opengvlab) + [![Alpha-VLLM stars](https://img.shields.io/github/stars/Alpha-VLLM?style=social)](https://github.com/Alpha-VLLM) + [![uni-medical stars](https://img.shields.io/github/stars/uni-medical?style=social)](https://github.com/uni-medical) -->
 
 
-![Static Badge](https://img.shields.io/badge/Stars-35k-blue?style=social&logo=github)
+![Static Badge](https://img.shields.io/badge/Stars-38k-blue?style=social&logo=github)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab)
 
 ## Welcome to OpenGVLab! 👋
